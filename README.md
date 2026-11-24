@@ -1,10 +1,8 @@
-## Hi there 👋
 
-Im zt3xdv, a web/nodejs developer mostly, but i know other languages like python too lol
+Welcome to my profile! **I'm zt3xdv**, a hobby programmer that (I believe) codes useless stuff
 
-I love lightweight things as you can see in my repositories :3.
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zt3xdv&theme=dark" />
 
-## Tecnologies i use
+### Technologies i use
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,github,vscode,discord,bash,html,css&perline=3" />
-
+<img src="https://skillicons.dev/icons?i=ts,react,github,linux,html,css,js,java,go,py,bash,rollup,bun,nodejs,docker,discord,cloudflare&perline=5" />
