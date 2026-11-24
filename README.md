@@ -5,4 +5,4 @@ Welcome to my profile! **I'm zt3xdv**, a hobby programmer that (I believe) codes
 
 ### Technologies i use
 
-<img src="https://skillicons.dev/icons?i=ts,react,github,linux,html,css,js,java,go,py,bash,rollup,bun,nodejs,docker,discord,cloudflare&perline=5" />
+<img src="https://skillicons.dev/icons?i=ts,react,github,linux,html,css,js,java,go,py,bash,rollup,bun,nodejs,docker,discord,cloudflare&perline=8" />
